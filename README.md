@@ -2,6 +2,6 @@
 
 Meu nome é Ana Claudia;
 
-sou apaixonada pelos animais;
+sou apaixonada por animais;
 
 ![](https://media.tenor.com/xirOQUrigv0AAAAC/silly-horse.gi0)
